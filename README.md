@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![LeagueLugas's github stats](https://github-readme-stats.vercel.app/api?username=LeagueLugas&show_icons=true&theme=dracula&custom_title=LeagueLugas의%20개쩌는%20상태)
+![LeagueLugas's github stats](https://github-readme-stats.vercel.app/api?username=LeagueLugas&show_icons=true&theme=dracula&custom_title=LeagueLugas%27s%20Awesome%20Status)
