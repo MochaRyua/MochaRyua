@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### MochaRyua Backend Developer 😄 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=machiro119@gmail.com)](mailto:machiro119@gmail.com)
+
+#### 📖 Language
+- Java
+
+
 ![MochaRyua's github stats](https://github-readme-stats.vercel.app/api?username=MochaRyua&show_icons=true&theme=dracula&custom_title=MochaRyua%27s%20Awesome%20Status)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochaRyua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochaRyua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
